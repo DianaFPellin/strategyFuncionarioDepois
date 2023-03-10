@@ -1,4 +1,6 @@
-package example;
+package example.estrategiaSalario;
+
+import example.interfaces.ISalario;
 
 public class SalarioPorHora implements ISalario {
     @Override
